@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Валерий Анисимов](https://up.htmlacademy.ru/javascript/22/user/456925).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Дроганов](https://htmlacademy.ru/profile/dmdragon).
 
 ---
 
