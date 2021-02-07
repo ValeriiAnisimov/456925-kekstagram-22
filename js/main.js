@@ -1,4 +1,4 @@
-function getRandomIntInclusive(min, max) {
+const getRandomIntInclusive = function (min, max) {
   if(min >= max || min < 0) return 'Incorrect incoming data !';
 
   min = Math.ceil(min);
@@ -6,8 +6,7 @@ function getRandomIntInclusive(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-isStrLengthValid(str,maxStrLength) {
-  if str.length <= maxStrLength return true
+const isStrLengthValid = function (str, maxStrLength) {
+  if (str.length <= maxStrLength) return true
   return false
 }
-
