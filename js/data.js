@@ -49,4 +49,4 @@ const renderMockArray = function () {
   return mockArray;
 }
 
-export {renderMockArray};
+export {renderMockArray as getMockData};

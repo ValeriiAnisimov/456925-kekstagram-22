@@ -1,1 +1,4 @@
-import {renderMockArray} from './data.js';
+import {renderPictures} from './render-picture.js';
+
+renderPictures();
+
